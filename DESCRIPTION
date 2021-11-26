@@ -1,6 +1,6 @@
 Package: googlePubsubR
 Title: R Interface for Google 'Cloud Pub/Sub' REST API
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: 
     person(given = "Andrea",
            family = "Dodet",
@@ -20,8 +20,8 @@ VignetteBuilder: knitr
 Config/testthat/edition: 3
 Config/testthat/parallel: false
 NeedsCompilation: no
-Packaged: 2021-11-11 21:59:12 UTC; ADT24
+Packaged: 2021-11-24 09:29:19 UTC; ADT24
 Author: Andrea Dodet [aut, cre]
 Maintainer: Andrea Dodet <andodet@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-11-12 09:50:02 UTC
+Date/Publication: 2021-11-26 15:30:02 UTC
