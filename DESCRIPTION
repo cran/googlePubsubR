@@ -1,6 +1,6 @@
 Package: googlePubsubR
 Title: R Interface for Google 'Cloud Pub/Sub' REST API
-Version: 0.0.2
+Version: 0.0.3
 Authors@R: 
     person(given = "Andrea",
            family = "Dodet",
@@ -15,13 +15,13 @@ Imports: googleAuthR (>= 0.3), cli, magrittr
 Suggests: testthat (>= 3.0.0), jsonlite, base64enc, knitr, rmarkdown,
         shiny, future, promises
 Encoding: UTF-8
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 VignetteBuilder: knitr
 Config/testthat/edition: 3
 Config/testthat/parallel: false
 NeedsCompilation: no
-Packaged: 2021-11-24 09:29:19 UTC; ADT24
+Packaged: 2022-01-16 20:23:54 UTC; anddt
 Author: Andrea Dodet [aut, cre]
 Maintainer: Andrea Dodet <andodet@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-11-26 15:30:02 UTC
+Date/Publication: 2022-01-16 20:42:42 UTC
