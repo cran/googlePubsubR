@@ -1,7 +1,7 @@
-aa8cfa92f2ba89c37219d473751e7fb9 *DESCRIPTION
+16c7df6e750097b5942ce25ccfe2cf09 *DESCRIPTION
 74324924bf75fee9ac2bc316d7adc429 *LICENSE
 6c11ba204af9d18c8636e5d8330864fb *NAMESPACE
-b08cf02c3e2bc1d310bcb82032dbe1ba *NEWS.md
+932d5de0fccc7ba235ca48872c412f30 *NEWS.md
 efb44360d98b8434aaec0ed91be407ec *R/auth.R
 3f2d6f483ee9f95c8ae4abdd91cfd62e *R/objects.R
 266e608793f4df3f305eced49219ae02 *R/schemas.R
@@ -9,13 +9,13 @@ cff020eb350bf7deb1276008c15b2794 *R/snapshots.R
 42c22a54620c5c73dd3232fed15c4d52 *R/subscriptions.R
 2b9bccf05c253aeccd23c275463a5a6e *R/topics.R
 e1cfeb4bb5022c401390d36b8138cb7a *R/utils.R
-2cbbed4a4bdee8f9d8fb8d446d2ca593 *R/zzz.R
+f4ba57e7b57835b88c29841b8da2f188 *R/zzz.R
 f3a06263cfd58afb7f06de2391ff14d2 *README.md
 15197b5dfb3115de81f07475d2939ff0 *build/vignette.rds
 52fae92a40c2ac34c3bfab585f1fa8d9 *inst/doc/getting_started.Rmd
-e7d77c65000ecc08d8a183a418b10a22 *inst/doc/getting_started.html
+39d7cc35c5a509c2299e35adf8fb5708 *inst/doc/getting_started.html
 0edc1966971034f28880fe8ccb2b2877 *inst/doc/shiny_consumer.Rmd
-f32f3804121e183b767e2187887eaf7e *inst/doc/shiny_consumer.html
+4569b6b18c8bed811fd6c2eba71778b2 *inst/doc/shiny_consumer.html
 bb051445e5470ed2e2d222cf4332a73e *inst/shiny/consumer_example/app.R
 ca00ea017cef19853b46214cd0e4f9ce *inst/shiny/consumer_example/init.R
 65705dd868e991f4169fcbdb7b12b1f9 *inst/shiny/consumer_example/readme.md
